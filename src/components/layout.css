@@ -1,6 +1,6 @@
 :root {
   --mainBrown:#2d1ef1;
-  --mainYellow:#ff9e09;
+  --mainYellow:rgb(255, 158, 9);
   --mainGrey:#ece8dc;
   --mainWhite:#FFF;
   --mainDark:#222;
@@ -22,3 +22,15 @@ h1,h2,h3,h4,h5,h6 {
   color: var(--mainYellow);
   font-size: 2rem;
 }
+/** Hero Area **/
+.default-background {
+  min-height: calc(100vh - 74px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(rgba(255, 158, 9, .5), rgba(255, 158, 9, .5));
+  background-position: center;
+  background-size: cover;
+  opacity: 1 !important;
+}
+/**/
