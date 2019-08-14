@@ -1,5 +1,5 @@
 :root {
-  --mainBrown:#2d1ef1;
+  --mainBrown:#2d1e1f;
   --mainYellow:rgb(255, 158, 9);
   --mainGrey:#ece8dc;
   --mainWhite:#FFF;
@@ -34,3 +34,13 @@ h1,h2,h3,h4,h5,h6 {
   opacity: 1 !important;
 }
 /**/
+.btn-yellow {
+  color: var(--mainYellow);
+  border-color: var(--mainYellow);
+  padding: 10px 20px;
+  transition: all .4s ease-in-out;
+}
+.btn-yellow:hover {
+  background: var(--mainYellow);
+  color: var(--mainWhite);
+}
