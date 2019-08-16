@@ -9,6 +9,7 @@ import BackgroundSection from '../components/Globals/BackgroundSection';
 
 import Info from '../components/Home/Info';
 import Menu from '../components/Home/Menu';
+import Products from '../components/Home/Products';
 
 const IndexPage = ({ data }) => (
   <Layout>
@@ -16,6 +17,7 @@ const IndexPage = ({ data }) => (
     <BackgroundSection img={data.img.childImageSharp.fluid} title="MK Coffee Shop" styleClass="default-background" />
     <Info homeCTA="true" />
     <Menu items={data.menu} />
+    <Products />
   </Layout>
 )
 
