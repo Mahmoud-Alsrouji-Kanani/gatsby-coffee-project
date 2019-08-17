@@ -8,5 +8,5 @@
   My Gatsby Demo - MK Coffee Shop
 </h1>
 
-<p align="center">Netlify URL <a href="https://gatsby-mk-coffee.netlify.com">https://gatsby-mk-coffee.netlify.com</a></p>
+<p align="center">Netlify URL <a target="_blank" href="https://gatsby-mk-coffee.netlify.com">https://gatsby-mk-coffee.netlify.com</a></p>
 
