@@ -11,7 +11,7 @@ export default function Contact() {
                         <form action="https://formspree.io/mahmoud.srouji@gmail.com" method="POST">
                             <div className="form-group">
                                 <label htmlFor="name">Name</label>
-                                <input type="text" id="name" name="name" className="form-control" placeholder="Full Name" maxlength="30" required />
+                                <input type="text" id="name" name="name" className="form-control" placeholder="Full Name" required />
                             </div>
                             {/* Email field */}
                             <div className="form-group">
