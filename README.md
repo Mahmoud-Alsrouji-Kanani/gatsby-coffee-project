@@ -10,4 +10,5 @@
 
 <p align="center">Netlify URL <a target="_blank" href="https://gatsby-mk-coffee.netlify.com">https://gatsby-mk-coffee.netlify.com</a></p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ce8b5162-52f5-4598-a53d-a64762d04237/deploy-status)](https://app.netlify.com/sites/gatsby-mk-coffee/deploys)
+<p align="center">
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ce8b5162-52f5-4598-a53d-a64762d04237/deploy-status)](https://app.netlify.com/sites/gatsby-mk-coffee/deploys)</p>
